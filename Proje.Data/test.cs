@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Proje.Data
 {
-    class test
+    class Test
     {
+        //Kodlama Yapıldı
     }
 }
