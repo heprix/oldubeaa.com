@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje.Data", "Proje.Data\Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje.Kutuphane", "Proje.Kutuphane\Proje.Kutuphane.csproj", "{54AEE814-7C1B-44E8-B267-93372D1DBF16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje.Admin", "Proje.Admin\Proje.Admin.csproj", "{98474DC8-9164-49B8-99F6-6400C9D2FBE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{54AEE814-7C1B-44E8-B267-93372D1DBF16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54AEE814-7C1B-44E8-B267-93372D1DBF16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54AEE814-7C1B-44E8-B267-93372D1DBF16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98474DC8-9164-49B8-99F6-6400C9D2FBE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98474DC8-9164-49B8-99F6-6400C9D2FBE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98474DC8-9164-49B8-99F6-6400C9D2FBE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98474DC8-9164-49B8-99F6-6400C9D2FBE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
